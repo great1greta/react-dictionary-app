@@ -1,9 +1,9 @@
 .Dictionary section {
   background: rgba(237, 244, 253, 0.69);
   padding: 30px;
-  border: 1px solid rgb(203, 214, 244);
+  border: 3px solid rgb(235, 239, 249);
   border-radius: 16px;
-  box-shadow: 0 5px 15px rgba(136, 183, 248, 0.533);
+  box-shadow: 5px 10px 10px rgba(232, 167, 243, 0.211);
   margin: 20px 0;
 }
 
@@ -11,7 +11,11 @@
   width: 100%;
   padding: 6px;
   padding: 6px 4px;
-  color: #333;
-  border: 1px solid #ddd;
+  color: rgb(88, 85, 85);
+  border: 2px solid rgba(158, 75, 140, 0.464);
   border-radius: 5px;
+}
+
+.Dictionary input:focus {
+  outline: none;
 }
