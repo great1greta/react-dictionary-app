@@ -14,3 +14,18 @@
 .Meaning {
   line-height: 1.6;
 }
+
+.Meaning .Synonyms {
+  margin: 0 10px;
+  padding: 0 5px;
+  font-size: 13px;
+  color: #37393b;
+  display: inline-flex;
+  justify-content: space-evenly;
+}
+
+.Meaning .Synonym-box {
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 3px 15px;
+}
