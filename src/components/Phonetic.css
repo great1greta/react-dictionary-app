@@ -1,4 +1,4 @@
-.Phonetic button {
+.Phonetic a {
   border: 1px solid black;
   border-radius: 20px;
   padding: 10px 20px;
@@ -6,6 +6,6 @@
   box-shadow: 5px 10px 10px rgba(232, 167, 243, 0);
 }
 
-.Phonetic button:hover {
+.Phonetic a:hover {
   background: rgba(253, 53, 210, 0.156);
 }
